@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: poc-backstage
+  annotations:
+    github.com/project-slug: elgrau/poc-backstage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: acme-corp
